@@ -10,7 +10,7 @@
 - 📄 Know about my experiences on my portfolio! [Visit my portfolio](https://ayaank077.github.io/Ayaan-Khan-Personal-Portfolio/)
 
 
-- ⚡ Fun fact **I love playing Soccer!**
+- ⚡ Fun fact **I love playing and coaching Soccer!** I even have my own website for coaching at: [SteinerSoccerAcademy](https://www.steinersocceracademy.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
