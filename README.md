@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayaan</h1>
 <h3 align="center">A passionate software engineering student at the University of Texas at Dallas.</h3>
 
-- 🔭 I’m currently working for **NextGig.ai**
+- 🔭 I’m currently working for **GigHQ.ai**
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
