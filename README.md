@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
 
-- 📫 How to reach me **ayaanrk04@gmail.com**
+- 📫 Please reach out to me at: **ayaanrk04@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/ayaan/Downloads/Resume.pdf](file:///C:/Users/ayaan/Downloads/Resume.pdf)
+- 📄 Know about my experiences on my portfolio! [Visit my portfolio](https://ayaank077.github.io/Ayaan-Khan-Personal-Portfolio/)
+
 
 - ⚡ Fun fact **I love playing Soccer!**
 
